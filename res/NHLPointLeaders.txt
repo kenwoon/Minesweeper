@@ -1,0 +1,11 @@
+Wayne Gretzky 2857 1487
+Jaromir Jagr 1921 1733
+Mark Messier 1887 1756
+Gordie Howe 1850 1767
+Ron Francis 1798 1731
+Marcel Dionne 1771 1348
+Steve Yzerman 1755 1514
+Mario Lemieux 1723 915
+Joe Sakic 1641 1378
+Phil Esposito 1590 1282
+
